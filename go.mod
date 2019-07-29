@@ -1,4 +1,4 @@
-module github.com/bfitzsimmons/validator
+module github.com/bfitzsimmons/validator/v9
 
 go 1.12
 
